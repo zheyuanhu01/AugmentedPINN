@@ -3,5 +3,6 @@ Code accompanying the manuscript "Augmented Physics-Informed Neural Networks (AP
 
 The file "main.py" provides the code for the Burgers' equation, Helmholtz equation, Wave equation, and Klein-Gordon equation.
 
-You can control the PDE, the models, the hyperparameters by setting up args in the file.
+You can control the PDE, the models, and the hyperparameters by setting up args in the file.
 
+BB.py and BB4.py provide the codes for the Burgers-Boussinesq equation with two and four subdomains, respectively. The usage is the same as main.py.
