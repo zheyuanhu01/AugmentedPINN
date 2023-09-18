@@ -1,5 +1,7 @@
 # AugmentedPINN
-Code accompanying the manuscript "Augmented Physics-Informed Neural Networks (APINNs): A gating network-based soft domain decomposition methodology" https://arxiv.org/abs/2211.08939.
+Code accompanying "**Augmented Physics-Informed Neural Networks (APINNs): A gating network-based soft domain decomposition methodology**" https://arxiv.org/abs/2211.08939.
+
+The paper has been accepted for publication in **Engineering Applications of Artificial Intelligence (EAAI)**.
 
 The file "main.py" provides the code for the Burgers' equation, Helmholtz equation, Wave equation, and Klein-Gordon equation.
 
